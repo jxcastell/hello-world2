@@ -1,0 +1,42 @@
+body {
+	margin: 0 0;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+	width: 500px;
+	height: 800px;
+	margin: 0 auto;
+	padding: 1em;
+    border: 2px solid blue;
+/*	background-color: rgb(197, 255, 184);*/
+	text-align: center
+}
+.dogList {
+	border: 2px solid green;
+	background-color: rgb(252, 255, 205);
+	height: 625px;
+
+}
+h1 {
+	color: #466995;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+h2 {
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 26px;
+  font-weight: 100;
+  margin: 0 auto 10px auto;
+}
+li {
+	display: inline-block;
+	width:140px;
+	margin: 0px 5px 5px 0px;
+}
+.name  {
+	display: inline-block;
+/*	border: 10px solid red; */
+	
+}
